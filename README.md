@@ -1,4 +1,4 @@
-# :closed_book: Proffy
+# :mortar_board: Proffy
 Proffy is a react application developed during Rocketseat's Next Level Week.
 
 ## :question: About the project
