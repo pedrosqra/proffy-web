@@ -38,7 +38,7 @@ yarn start
 ```sh
 expo start
 ```
-## :heart_eyes: You're ready to go!
+## :heart_eyes:                                             You're ready to go!
 <!-- CONTRIBUTING -->
 
 ## :computer: Contributing
