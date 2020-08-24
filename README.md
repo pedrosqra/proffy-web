@@ -1,5 +1,5 @@
-# :closed_book: Rodolfo
-Application developed during Rocketseat's Next Level Week.
+# :closed_book: Proffy
+Proffy is a react application developed during Rocketseat's Next Level Week.
 
 ## :question: About the project
 
